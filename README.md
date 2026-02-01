@@ -1,4 +1,4 @@
-## Hello! My name is Rodrigo Mikaro!
+## 👋Hello! My name is Rodrigo Mikaro!
 
 ### 📝 About Me
 - 🔭 I’m currently working on getting into a public university in the state of São Paulo, Brazil.
