@@ -16,9 +16,9 @@
 ##
 
 ### 🎓 Education
-- Etec Aristóteles Ferreira (2023 - 2025)
 - Unicamp (2026 --- )
 - Mate Academy (2025 --- )
+- Etec Aristóteles Ferreira (2023 - 2025)
 
 ## 
 
