@@ -16,7 +16,7 @@
 ##
 
 ### 🎓 Education
-- Unicamp (2026 --- )
+- University of São Paulo (USP) (2026 --- )
 - Mate Academy (2025 --- )
 - Etec Aristóteles Ferreira (2023 - 2025)
 
@@ -26,7 +26,7 @@
 <div> 
   <a href="https://youtube.com/@rodrigomikaro?si=REUu6Cs2s4TzvbcH" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pAEahtQs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:r305991@dac.unicamp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rodrigomikaro@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-mikaro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:rodrigomikaro@outlook.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
