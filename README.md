@@ -1,10 +1,10 @@
 ## 👋Hello! My name is Rodrigo Mikaro!
 
 ### 📝 About Me
-- 🔭 I’m currently working on getting into a public university in the state of São Paulo, Brazil.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on university projects.
-- 🤔 I’m looking for help with the coding world.
+- 🔭 I’m currently studying Computer Engineering at the University of São Paulo, in Brazil.
+- 🌱 I’m currently learning Python and C.
+- 👯 I’m looking to collaborate on university and even outside projects.
+- 🤔 I’m looking for guidance in the coding world.
 - 💬 Ask me about Tennis.
 
 ## 
@@ -16,9 +16,9 @@
 ##
 
 ### 🎓 Education
-- University of São Paulo (USP) (2026 --- )
-- Mate Academy (2025 --- )
-- Etec Aristóteles Ferreira (2023 - 2025)
+- University of São Paulo [Computer Engineering] (USP) (2026 --- )
+- Mate Academy [Python Developer] (2025 --- )
+- Etec Aristóteles Ferreira [Electronics Technician] (2023 - 2025)
 
 ## 
 
