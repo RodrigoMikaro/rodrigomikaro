@@ -18,7 +18,10 @@
 ### 🎓 Education
 - University of São Paulo [Computer Engineering] (USP) (2026 --- )
 - Mate Academy [Python Developer] (2025 --- )
+- Undergratuate research in Math at PIC-OBMEP (03/2025 - 10/2025)
 - Etec Aristóteles Ferreira [Electronics Technician] (2023 - 2025)
+
+- Lattes Curriculum: http://lattes.cnpq.br/8323637328233076
 
 ## 
 
